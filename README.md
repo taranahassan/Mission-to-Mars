@@ -1,4 +1,4 @@
-# Mission-to-Mars
+# Mission to Mars
 
 ## Overview of project<br>
 
