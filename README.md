@@ -33,6 +33,6 @@ https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=
 
 ## Summary
 
-![html.png](https://github.com/taranahassan/Mission-to-Mars/blob/main/html.png?raw=true) <br>
+![html.png](https://github.com/taranahassan/Mission-to-Mars/blob/main/image/html.png?raw=true) <br>
 
 Above image has been formatted for better visual using Bootstrap 3.
